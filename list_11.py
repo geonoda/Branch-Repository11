@@ -1,9 +1,10 @@
 import random
 score = 0
+print("start")
 def addtest ():
      global score
-     a = random .randint (0 , 10 )
-     b = random .randint (0 , 10 )
+     a = random .randint (0 , 15 )
+     b = random .randint (0 , 15 )
      c = a + b
      print (a , '+', b , '=', end ='')
      ans = int (input ())
@@ -12,7 +13,7 @@ def addtest ():
          print ('o')
      else :
          print ('x')
-for i in range (3 ):
+for i in range (5 ):
     addtest ()
 print ('your socre is ', score )
 print ('terminated')
