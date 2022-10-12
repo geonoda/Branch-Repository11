@@ -10,9 +10,9 @@ def addtest ():
      ans = int (input ())
      if ans == c :
          score = score + 1
-         print ('o')
+         print ('True')
      else :
-         print ('x')
+         print ('False')
 for i in range (5 ):
     addtest ()
 print ('your socre is ', score )
