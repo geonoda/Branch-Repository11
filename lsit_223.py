@@ -1,4 +1,5 @@
 import random
+print("start")
 def multiply (a , b ):
      s = 0
      if (b <0 ):
@@ -12,3 +13,5 @@ a = random .randint (-9 , 9 )
 b = random .randint (-9 , 9 )
 s = multiply (a , b )
 print (a , 'x', b ,'=', s )
+print("finish")
+
