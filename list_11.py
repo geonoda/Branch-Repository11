@@ -15,5 +15,7 @@ def addtest ():
          print ('False')
 for i in range (5 ):
     addtest ()
+print("Before")
 print ('your socre is ', score )
 print ('terminated')
+print("After")
