@@ -1,2 +1,8 @@
+
+fadsfsd
+fsadfads
+fadsfasd
+fadsfads
+fads
 컴퓨터공학과입니다 print("start and let is go")
 

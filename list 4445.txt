@@ -1,2 +1,5 @@
-print("go")
-print("start")
+fdsafdasfadsfdsafdsafads
+fadsfadsfadsfasd
+fasdfadsfdsfads
+fdsfasdfdsafsda
+
